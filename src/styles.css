@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-size: 14px;
+}
+
+.wrap,
+input {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #eee;
+  width: 90%;
+  word-break: break-all;
+  border-radius: 5px;
+}
+
+input {
+  border-color: rebeccapurple;
+}
