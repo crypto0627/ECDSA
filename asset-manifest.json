@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ECDSA/static/css/main.f17e7cbc.css",
+    "main.js": "/ECDSA/static/js/main.f54a36a4.js",
+    "static/js/725.1477fd50.chunk.js": "/ECDSA/static/js/725.1477fd50.chunk.js",
+    "index.html": "/ECDSA/index.html",
+    "main.f17e7cbc.css.map": "/ECDSA/static/css/main.f17e7cbc.css.map",
+    "main.f54a36a4.js.map": "/ECDSA/static/js/main.f54a36a4.js.map",
+    "725.1477fd50.chunk.js.map": "/ECDSA/static/js/725.1477fd50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f17e7cbc.css",
+    "static/js/main.f54a36a4.js"
+  ]
+}
